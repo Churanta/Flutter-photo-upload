@@ -23,6 +23,7 @@ To install this app, follow these steps:
 2. Navigate to the project directory: `cd flutter-profile-photo-uploader`
 3. Run `flutter pub get` to install the app's dependencies
 4. Run `flutter run` to launch the app
+5. If you like
 
 ## Usage
 
